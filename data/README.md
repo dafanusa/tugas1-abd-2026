@@ -9,7 +9,7 @@
 | Repository    | `dansachs/indonesian-religious-corpus`                               |
 | URL           | https://huggingface.co/datasets/dansachs/indonesian-religious-corpus |
 | Format        | CSV                                                                  |
-| File Raw      | `data.csv`                                                           |
+| File Raw      | `data_indonesian_religius.csv`                                                           |
 | Bahasa        | Bahasa Indonesia                                                     |
 | License       | MIT                                                                  |
 | Jenis Data    | Data teks / korpus bahasa                                            |
@@ -184,7 +184,7 @@ Dataset digunakan untuk menghasilkan analisis mengenai karakteristik, kualitas, 
 File raw:
 
 ```text
-data/raw/data.csv
+data/raw/data_indonesian_religius.csv
 ```
 
 tidak dimodifikasi secara langsung.
